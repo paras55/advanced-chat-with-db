@@ -121,7 +121,7 @@ def main():
     elif process_db and uploaded_file is None:
         st.sidebar.warning("Please upload a database file first.")
     
-    st.sidebar.markdown("[Download sample database](https://example.com/sample.db)")  # Replace with actual download link
+    st.sidebar.markdown("[Download sample database](https://drive.google.com/file/d/1RyTj-yCPlAwtQKfTThahZkMtDEKxi2Lr/view?usp=sharing)")  # Replace with actual download link
     
     if not openai_api_key:
         st.warning("Please enter your OpenAI API key in the sidebar.")
