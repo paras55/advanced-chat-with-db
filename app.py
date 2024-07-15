@@ -176,7 +176,6 @@ atexit.register(cleanup)
 
 st.markdown("""
 <div class="footer">
-    © 2024 Your Company Name. All rights reserved.
     <div class="social-links">
         <a href="https://www.instagram.com/parasmadan.in/" target="_blank"><i class="fab fa-instagram"></i></a>
         <a href="https://www.linkedin.com/in/paras-madan-a9863716b/" target="_blank"><i class="fab fa-linkedin"></i></a>
